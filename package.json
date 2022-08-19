@@ -20,7 +20,8 @@
     "@angular/router": "~12.0.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.1.0",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.11.4",
+    "kaltura-typescript-client": "file:src/assets/lib/kaltura-typescript-client-7.0.1.tgz"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~12.0.1",

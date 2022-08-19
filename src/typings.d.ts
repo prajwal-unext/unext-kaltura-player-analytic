@@ -1,0 +1,1 @@
+declare module 'src/app/video-analytics/video-analytics.css';

@@ -1,0 +1,288 @@
+.playkit-player .playkit-seek-bar .playkit-progress-bar .playkit-progress {
+background-color: #ff6600!important;
+}
+
+.kDropDown {
+    border: 1px solid #55555580!important;
+}
+
+.kExport:focus, .kFilter:focus, .kDateFilter:focus {
+    outline: none!important;
+}
+
+.kDropDown span {
+color: #000000;
+font-size: calc(10px + 0.1042vw)!important;
+}
+
+.kDropDown:hover, .kDateFilter > .datesRangeDropDown:hover  {
+border-color: transparent!important;
+background-color: #F7F8F9!important;
+}
+
+.kDropDown:hover > span  {
+color: #ff6600;
+}
+
+.kDropDown > i.kIcondropdown_arrow_bottom, .kDateFilter > .datesRangeDropDown > i.kIcondropdown_arrow_bottom {
+color: #555!important;
+font-weight: bold;
+font-size: 10px!important;
+}
+
+.kDropDown:hover > i.kIcondropdown_arrow_bottom, .kDateFilter > .datesRangeDropDown:hover > i.kIcondropdown_arrow_bottom {
+transform: rotate(180deg);
+}
+
+
+.kDateFilter > .datesRangeDropDown:hover > span:nth-child(2) {
+color: #ff6600!important; 
+}
+
+.kDateFilter > .datesRangeDropDown > span:nth-child(2) {
+color: #55555599!important;
+}
+
+.kDateFilter > .datesRangeDropDown > span {
+font-size: calc(10px + 0.1042vw)!important;
+}
+.kColumnContent > a {
+    color: #ff6600!important;
+    font-size: calc(14px + 0.104165vw)!important;
+}
+
+.kRefineFiltersFooter > .kButtonBranded {
+background-color: #FF6600!important;
+}
+
+.kRefineFiltersFooter > .kButtonBranded:hover {
+    background: transparent linear-gradient(272deg, #FF6200 0%, #FF3013 100%) 0% 0% no-repeat padding-box!important;
+}
+
+.kTotalsContainer .kTotalContainer .kMiniIcon {
+    width: 40px!important;
+    height: 40px!important;
+    border-radius: 50%!important;
+}
+
+.kReport .chartContainer .kScrubber .kLine {
+    background-color: #FF6600!important;
+}
+.kReport .chartContainer .kScrubber .kCurrentTime, 
+.kMain .kReportView .kReport .kTable .kToggle i,
+.kMain .kReportView .kReport .kTable .kToggle a {
+    color: #FF6600!important;
+}
+.kMain .kReportView .kReport .kTable .kToggle span {
+    outline: none!important;
+}
+
+.kTotalsContainer .kTotalContainer .kMiniIcon > i {
+    font-size: 23px!important;
+}
+
+.kReportContainer, app-video-entry-preview, .kMain .kReportView .kReport, k-area-blocker, app-k-player-v7, #kaltura_player_analytics, .kaltura-player-container {
+    border-top-left-radius: 6px!important;
+    border-top-right-radius: 6px!important;
+}
+.kReportTabs .kTab {
+    padding-bottom: 0!important;
+}
+
+.kReportTabs .kTab.active {
+    border-bottom: 3px solid #FF6600!important;
+}
+
+kinputhelper > .kInputHelper > .kIconhelpLink > [class^=kIcon] {
+    color: #50A8FF!important;
+}
+
+.p-dropdown:not(.p-disabled):hover {
+    border-color: transparent;
+    background-color: #f8f8f9!important;
+    color: #FF6600!important;
+}
+
+.p-dropdown.p-component.p-dropdown-open .p-dropdown-label.p-inputtext {
+    background-color: #f8f8f9!important;
+    border-color: transparent!important;
+    outline: none!important;
+    color: #FF6600!important;
+}
+
+.p-dropdown.p-component.p-dropdown-open .p-dropdown-items-wrapper p-dropdownitem:nth-child(1) > li {
+    background-color: #eaeef6!important;
+}
+
+.p-dropdown.p-component.p-dropdown-open .p-dropdown-items-wrapper p-dropdownitem:nth-child(1) > li .kOptionLabel {
+    color: #999;
+}
+
+.kMain .kReportView .kReport .kTable .kToggle a:focus {
+    outline: none!important;
+}
+
+.p-selectbutton.p-buttonset .p-button {
+    color: #999!important;
+}
+
+.p-selectbutton.p-buttonset .p-button.p-highlight {
+    border: 1px solid #dcb194!important;
+    background: #fef7f2!important;
+    color: #FF6600!important;
+}
+
+table > thead.p-datatable-thead > tr > th:focus ,
+p-table .p-datatable .p-datatable-tbody>tr>td a:focus {
+    outline: none!important;
+}
+
+.kBarContainer .kBarWrapper .kBarWrapperRow .kBullet {
+    border-radius: 10px!important;
+}
+
+.kBulletContainer .kBullet .kBar.animate, 
+.kBarContainer .kBarWrapper .kBarWrapperRow .kBullet .kBar,
+.kBulletContainer .kBullet .kBar.animate {
+    background-color: #FF6600!important;
+}
+
+.kHeatMap .kHeatMapItem  {
+    background-color: #FF6600!important;
+}
+
+app-video-entry-user-engagement table > .p-datatable-tbody > tr:last-child > td {
+    border: none!important;
+}
+app-video-entry-user-engagement table > .p-datatable-tbody >  tr:nth-last-child(2) > td {
+    border-bottom: none!important;
+}
+
+.kTableContainer p-table .p-datatable .p-datatable-tbody>tr>td a,
+p-table .p-datatable .p-datatable-tbody>tr>td a {
+    color: #FF6600!important;
+}
+.kReportTabs .kTab .kTabTitle {
+    font-size: calc(14px + 0.104165vw);
+}
+.kReportTabs .kTab:focus {
+    outline: none!important;
+}
+
+.kRefineFiltersMain .kFilterContainerCol .kColumn > .kColumnLabel {
+    display: none!important;
+}
+
+.kHeatMap .kTimelineStart {
+    left: 23px!important;
+    top: 17px!important;
+    color: #000!important;
+}
+
+.kHeatMap .kTimelineEnd {
+    right: 23px!important;
+    top: 17px!important;
+    color: #000!important;
+}
+
+.kDomainIcon {
+    display: none!important;
+}
+
+body.kms {
+    background: transparent;
+    background-color: white;
+}
+.kms .kMain .kReportView .kReport, .kms .kMain .kReportView .kReport .kDivider {
+    background: transparent;
+}
+.kms .kMain .kReportView .kReport .kTotalsRow,  .kms .kMain .kReportView .kReport .kTotalsContainer {
+    background: transparent;
+}
+.kms .kMain .kReportView .kReport .kFilters {
+    background-color: white;
+}
+.kms .kMain .kReportView .kReport .kReportHeader {
+    background: transparent;
+}
+.kms .kMain .kReportView .kReport .kTitle{
+    text-transform: capitalize;
+}
+.kms .kMain .kReportView .kReport .kEntryDetails{
+    display: none
+}
+.kms .kMain .kReportView .kReport .kReportContainer {
+    background: transparent;
+}
+.kms .kMain .kReportView .kReport .kEntryDetails {
+    background: transparent;
+}
+.kms .kMain .kReportView .kReport.kImageReport {
+    background: transparent;
+}
+.kms .kMain .kReportView .kReport .kRefineFiltersHost {
+    background: transparent;
+}
+.kms .kReport .kTotalsRow .kTotalsContainer .kTotals{
+    width: 100%  !important;
+
+}
+.kms .kReport .kTotalsRow .kTotalsContainer .kSocialHighlights{
+    display: none
+}
+/* Margins */
+.kms .kContent {
+    width: 100% !important;
+}
+.kms .kReportView .kContent {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    box-sizing: border-box;
+}
+/* Borders */
+.kms .kTotalContainer, .kms .kSocialHighlights {
+    border: 1px solid #cccccc !important;
+}
+.kms .kTotalContainer:first-child {
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.kms .kTotalContainer:last-child {
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-left: none !important;
+}
+.kms .kTotalContainer:not(:first-child):not(:last-child) {
+    border-left: none !important;
+}
+.kms .kEntryPreview app-video-entry-preview .kReport {
+    border: 1px solid #cccccc !important;
+    border-bottom: none !important;
+    border-radius: 0px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.kms .kEntryPreview app-video-entry-user-engagement .kReport {
+    border: 1px solid #cccccc !important;
+    border-top: none !important;
+    border-radius: 0px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.kms .kReportContainer .kFilters {
+    border: 1px solid #cccccc !important;
+    border-bottom: none !important;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.kms .kReportContainer .kReportContent {
+    border: 1px solid #cccccc !important;
+    border-top: none !important;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.kms .kReportContainer .kReportContent.kNoTitle {
+    border-top: 1px solid #cccccc !important;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
