@@ -16,7 +16,7 @@ When we view an entry from a playerId / uiConfId which has statistics disabled, 
 7. Click on "Play Video without Analytics"
 8. Play the video
 9. Check the analytics again
-10. The play count and player impression will have been incremented.
+10. The play count and player impression will be incremented.
 
 
 
